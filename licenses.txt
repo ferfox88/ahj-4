@@ -1,0 +1,7 @@
+VISA: https://findicons.com/icon/download/223557/visa_curved/102/png;
+MasterCard: https://findicons.com/icon/download/223569/mastercard_curved/102/png;
+American Express: https://findicons.com/icon/download/223574/american_express_curved/102/png;
+Discover: https://findicons.com/icon/download/608549/discover/120/png;
+JCB: https://findicons.com/icon/download/608564/jcb/120/png;
+Diners Club: https://icon-icons.com/ru/download/60516/PNG/512/;
+Mir: https://icons8.ru/icon/59239/%D0%BC%D0%B8%D1%80;
