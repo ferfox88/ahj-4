@@ -1,6 +1,6 @@
 import puppetteer from 'puppeteer';
 
-jest.setTimeout(30000); // default puppeteer timeout
+jest.setTimeout(60000); // default puppeteer timeout
 
 describe('Credit Card Validator form', () => {
   let browser = null;
