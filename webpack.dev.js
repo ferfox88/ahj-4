@@ -18,7 +18,7 @@ module.exports = merge(common, {
     // contentBase: path.resolve(__dirname, "/dist"),
     open: true,
     compress: true,
-    port: 9000,
+    port: 8080,
   },
 
   plugins: [

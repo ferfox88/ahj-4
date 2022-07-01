@@ -5,7 +5,7 @@ jest.setTimeout(180000); // default puppeteer timeout
 describe('Credit Card Validator form', () => {
   let browser = null;
   let page = null;
-  const baseUrl = 'http://localhost:9000';
+  const baseUrl = 'http://localhost:8080';
   beforeAll(async () => {
     browser = await puppetteer.launch({
       // headless: false,
